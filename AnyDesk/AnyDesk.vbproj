@@ -1,0 +1,326 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{5039A15A-3C4B-4B5F-AE7D-F182B2C76256}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>AnyDesk.My.MyApplication</StartupObject>
+    <RootNamespace>AnyDesk</RootNamespace>
+    <AssemblyName>AnyDesk</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>AnyDesk.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>AnyDesk.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x86'">
+    <DebugSymbols>true</DebugSymbols>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\x86\Debug\</OutputPath>
+    <DocumentationFile>AnyDesk.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x86'">
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\x86\Release\</OutputPath>
+    <DocumentationFile>AnyDesk.xml</DocumentationFile>
+    <Optimize>true</Optimize>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Bunifu_UI_v1.5.3, Version=1.5.3.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\Bunifu_UI_v1.5.3.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=11.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.11.0.2\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Drawing.Design" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="backover.Designer.vb">
+      <DependentUpon>backover.vb</DependentUpon>
+    </Compile>
+    <Compile Include="backover.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="clickguy.Designer.vb">
+      <DependentUpon>clickguy.vb</DependentUpon>
+    </Compile>
+    <Compile Include="clickguy.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Flat.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="FlatOther.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Hook.vb" />
+    <Compile Include="keyboardhk.vb" />
+    <Compile Include="Loader.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Loader.Designer.vb">
+      <DependentUpon>Loader.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Main.Designer.vb">
+      <DependentUpon>Main.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Main.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mono.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Taphk.vb" />
+    <Compile Include="Thirt.vb">
+      <SubType>Component</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="backover.resx">
+      <DependentUpon>backover.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="clickguy.resx">
+      <DependentUpon>clickguy.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Loader.resx">
+      <DependentUpon>Loader.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Main.resx">
+      <DependentUpon>Main.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+    <None Include="Resources\logo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo - Copie.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo - Copie1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo - Copie2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo - Copie - Copie.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo - Copie - Copie1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo - Copie - Copie2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo - Copie - Copie3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo - Copie - Copie - Copie.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo6.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo - Copie - Copie4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo - Copie - Copie - Copie1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\jitrange.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo - Copie - Copie - Copie2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\_single.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ffff.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\g303.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\g3032.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\g502.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\GPro.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hp.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\microsoft.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\multiclick.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\oldmouse.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\shaya.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Single__1_.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\stimpy.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\success.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\test.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\test2.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Untitled.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fnDvrfH7_400x400.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\JEJEa_jr_400x400.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\8i9httsw_400x400.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\padlock.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\NSc8Jpr.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Bunifu_UI_v1.5.3.dll" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+</Project>

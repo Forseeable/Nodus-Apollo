@@ -1,0 +1,15 @@
+C:\Users\schne\source\repos\AnyDesk\AnyDesk\bin\x86\Release\AnyDesk.exe.config
+C:\Users\schne\source\repos\AnyDesk\AnyDesk\bin\x86\Release\AnyDesk.exe
+C:\Users\schne\source\repos\AnyDesk\AnyDesk\bin\x86\Release\AnyDesk.pdb
+C:\Users\schne\source\repos\AnyDesk\AnyDesk\bin\x86\Release\AnyDesk.xml
+C:\Users\schne\source\repos\AnyDesk\AnyDesk\bin\x86\Release\Bunifu_UI_v1.5.3.dll
+C:\Users\schne\source\repos\AnyDesk\AnyDesk\obj\x86\Release\AnyDesk.vbprojResolveAssemblyReference.cache
+C:\Users\schne\source\repos\AnyDesk\AnyDesk\obj\x86\Release\AnyDesk.Loader.resources
+C:\Users\schne\source\repos\AnyDesk\AnyDesk\obj\x86\Release\AnyDesk.Main.resources
+C:\Users\schne\source\repos\AnyDesk\AnyDesk\obj\x86\Release\AnyDesk.Resources.resources
+C:\Users\schne\source\repos\AnyDesk\AnyDesk\obj\x86\Release\AnyDesk.vbproj.GenerateResource.cache
+C:\Users\schne\source\repos\AnyDesk\AnyDesk\obj\x86\Release\AnyDesk.vbproj.CoreCompileInputs.cache
+C:\Users\schne\source\repos\AnyDesk\AnyDesk\obj\x86\Release\AnyDesk.vbproj.CopyComplete
+C:\Users\schne\source\repos\AnyDesk\AnyDesk\obj\x86\Release\AnyDesk.exe
+C:\Users\schne\source\repos\AnyDesk\AnyDesk\obj\x86\Release\AnyDesk.xml
+C:\Users\schne\source\repos\AnyDesk\AnyDesk\obj\x86\Release\AnyDesk.pdb

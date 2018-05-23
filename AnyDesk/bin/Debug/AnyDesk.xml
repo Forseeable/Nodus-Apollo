@@ -1,0 +1,270 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+AnyDesk
+</name>
+</assembly>
+<members>
+<member name="T:AnyDesk.My.Resources.Resources">
+<summary>
+  Une classe de ressource fortement typée destinée, entre autres, à la consultation des chaînes localisées.
+</summary>
+</member>
+<member name="P:AnyDesk.My.Resources.Resources.ResourceManager">
+<summary>
+  Retourne l'instance ResourceManager mise en cache utilisée par cette classe.
+</summary>
+</member>
+<member name="P:AnyDesk.My.Resources.Resources.Culture">
+<summary>
+  Remplace la propriété CurrentUICulture du thread actuel pour toutes
+  les recherches de ressources à l'aide de cette classe de ressource fortement typée.
+</summary>
+</member>
+<member name="P:AnyDesk.My.Resources.Resources._8i9httsw_400x400">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AnyDesk.My.Resources.Resources._single">
+<summary>
+  Recherche une ressource localisée de type System.IO.UnmanagedMemoryStream semblable à System.IO.MemoryStream.
+</summary>
+</member>
+<member name="P:AnyDesk.My.Resources.Resources.ffff">
+<summary>
+  Recherche une ressource localisée de type System.IO.UnmanagedMemoryStream semblable à System.IO.MemoryStream.
+</summary>
+</member>
+<member name="P:AnyDesk.My.Resources.Resources.fnDvrfH7_400x400">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AnyDesk.My.Resources.Resources.g303">
+<summary>
+  Recherche une ressource localisée de type System.IO.UnmanagedMemoryStream semblable à System.IO.MemoryStream.
+</summary>
+</member>
+<member name="P:AnyDesk.My.Resources.Resources.g3032">
+<summary>
+  Recherche une ressource localisée de type System.IO.UnmanagedMemoryStream semblable à System.IO.MemoryStream.
+</summary>
+</member>
+<member name="P:AnyDesk.My.Resources.Resources.g502">
+<summary>
+  Recherche une ressource localisée de type System.IO.UnmanagedMemoryStream semblable à System.IO.MemoryStream.
+</summary>
+</member>
+<member name="P:AnyDesk.My.Resources.Resources.GPro">
+<summary>
+  Recherche une ressource localisée de type System.IO.UnmanagedMemoryStream semblable à System.IO.MemoryStream.
+</summary>
+</member>
+<member name="P:AnyDesk.My.Resources.Resources.hp">
+<summary>
+  Recherche une ressource localisée de type System.IO.UnmanagedMemoryStream semblable à System.IO.MemoryStream.
+</summary>
+</member>
+<member name="P:AnyDesk.My.Resources.Resources.JEJEa_jr_400x400">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AnyDesk.My.Resources.Resources.jitrange">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AnyDesk.My.Resources.Resources.logo">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AnyDesk.My.Resources.Resources.logo___Copie">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AnyDesk.My.Resources.Resources.logo___Copie___Copie">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AnyDesk.My.Resources.Resources.logo___Copie___Copie___Copie">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AnyDesk.My.Resources.Resources.logo___Copie___Copie___Copie1">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AnyDesk.My.Resources.Resources.logo___Copie___Copie___Copie2">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AnyDesk.My.Resources.Resources.logo___Copie___Copie1">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AnyDesk.My.Resources.Resources.logo___Copie___Copie2">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AnyDesk.My.Resources.Resources.logo___Copie___Copie3">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AnyDesk.My.Resources.Resources.logo___Copie___Copie4">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AnyDesk.My.Resources.Resources.logo___Copie1">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AnyDesk.My.Resources.Resources.logo___Copie2">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AnyDesk.My.Resources.Resources.logo1">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AnyDesk.My.Resources.Resources.logo2">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AnyDesk.My.Resources.Resources.logo3">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AnyDesk.My.Resources.Resources.logo4">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AnyDesk.My.Resources.Resources.logo5">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AnyDesk.My.Resources.Resources.logo6">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AnyDesk.My.Resources.Resources.microsoft">
+<summary>
+  Recherche une ressource localisée de type System.IO.UnmanagedMemoryStream semblable à System.IO.MemoryStream.
+</summary>
+</member>
+<member name="P:AnyDesk.My.Resources.Resources.multiclick">
+<summary>
+  Recherche une ressource localisée de type System.IO.UnmanagedMemoryStream semblable à System.IO.MemoryStream.
+</summary>
+</member>
+<member name="P:AnyDesk.My.Resources.Resources.NSc8Jpr">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AnyDesk.My.Resources.Resources.oldmouse">
+<summary>
+  Recherche une ressource localisée de type System.IO.UnmanagedMemoryStream semblable à System.IO.MemoryStream.
+</summary>
+</member>
+<member name="P:AnyDesk.My.Resources.Resources.padlock">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AnyDesk.My.Resources.Resources.shaya">
+<summary>
+  Recherche une ressource localisée de type System.IO.UnmanagedMemoryStream semblable à System.IO.MemoryStream.
+</summary>
+</member>
+<member name="P:AnyDesk.My.Resources.Resources.Single__1_">
+<summary>
+  Recherche une ressource localisée de type System.IO.UnmanagedMemoryStream semblable à System.IO.MemoryStream.
+</summary>
+</member>
+<member name="P:AnyDesk.My.Resources.Resources.stimpy">
+<summary>
+  Recherche une ressource localisée de type System.IO.UnmanagedMemoryStream semblable à System.IO.MemoryStream.
+</summary>
+</member>
+<member name="P:AnyDesk.My.Resources.Resources.success">
+<summary>
+  Recherche une ressource localisée de type System.IO.UnmanagedMemoryStream semblable à System.IO.MemoryStream.
+</summary>
+</member>
+<member name="P:AnyDesk.My.Resources.Resources.test">
+<summary>
+  Recherche une ressource localisée de type System.IO.UnmanagedMemoryStream semblable à System.IO.MemoryStream.
+</summary>
+</member>
+<member name="P:AnyDesk.My.Resources.Resources.test2">
+<summary>
+  Recherche une ressource localisée de type System.IO.UnmanagedMemoryStream semblable à System.IO.MemoryStream.
+</summary>
+</member>
+<member name="P:AnyDesk.My.Resources.Resources.Untitled">
+<summary>
+  Recherche une ressource localisée de type System.IO.UnmanagedMemoryStream semblable à System.IO.MemoryStream.
+</summary>
+</member>
+<member name="T:AnyDesk.Helpers">
+ <summary>
+ Flat UI Theme
+ Creator: iSynthesis (HF)
+ FIXED BY DUCKIETY FOR NET 4.5.2+ (MAYBE LOWER)!!
+ Version: 1.0.4
+ Date Created: 17/06/2013
+ Date Changed: 26/06/2013
+ UID: 374648
+ For any bugs / errors, PM me.
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="F:AnyDesk.FlatAlertBox.W">
+ <summary>
+ How to use: FlatAlertBox.ShowControl(Kind, String, Interval)
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="F:AnyDesk.FlatAlertBox.H">
+ <summary>
+ How to use: FlatAlertBox.ShowControl(Kind, String, Interval)
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="T:AnyDesk.DrawHelpers">
+ <summary>
+ Visual Studio GDI+ Theme
+ Creator: Xertz (HF)
+ Version: 1.1
+ Control Count: 11
+ Date Created: 11/5/2014
+ Date Changed: 11/6/2014
+ UID: 1602992
+ Email: xertzstudio@gmail.com
+ For any bugs / errors, PM me.
+ </summary>
+ <remarks></remarks>
+</member>
+</members>
+</doc>

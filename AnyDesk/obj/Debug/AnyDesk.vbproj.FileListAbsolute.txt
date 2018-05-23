@@ -1,0 +1,80 @@
+C:\Users\schne\source\repos\AnyDesk\AnyDesk\obj\Debug\AnyDesk.Loader.resources
+C:\Users\schne\source\repos\AnyDesk\AnyDesk\obj\Debug\AnyDesk.Resources.resources
+C:\Users\schne\source\repos\AnyDesk\AnyDesk\obj\Debug\AnyDesk.vbproj.GenerateResource.cache
+C:\Users\schne\source\repos\AnyDesk\AnyDesk\obj\Debug\AnyDesk.vbproj.CoreCompileInputs.cache
+C:\Users\schne\source\repos\AnyDesk\AnyDesk\bin\Debug\AnyDesk.exe.config
+C:\Users\schne\source\repos\AnyDesk\AnyDesk\bin\Debug\AnyDesk.exe
+C:\Users\schne\source\repos\AnyDesk\AnyDesk\bin\Debug\AnyDesk.pdb
+C:\Users\schne\source\repos\AnyDesk\AnyDesk\bin\Debug\AnyDesk.xml
+C:\Users\schne\source\repos\AnyDesk\AnyDesk\obj\Debug\AnyDesk.exe
+C:\Users\schne\source\repos\AnyDesk\AnyDesk\obj\Debug\AnyDesk.xml
+C:\Users\schne\source\repos\AnyDesk\AnyDesk\obj\Debug\AnyDesk.pdb
+C:\Users\schne\source\repos\AnyDesk\AnyDesk\obj\Debug\AnyDesk.Main.resources
+C:\Users\schne\source\repos\AnyDesk\AnyDesk\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\schne\source\repos\AnyDesk\AnyDesk\obj\Debug\AnyDesk.vbproj.CopyComplete
+C:\Users\schne\source\repos\AnyDesk\AnyDesk\obj\Debug\AnyDesk.vbprojResolveAssemblyReference.cache
+C:\Users\schne\Desktop\qsdg\AnyDesk\AnyDesk\obj\Debug\AnyDesk.vbprojResolveAssemblyReference.cache
+C:\Users\schne\Desktop\qsdg\AnyDesk\AnyDesk\obj\Debug\AnyDesk.Loader.resources
+C:\Users\schne\Desktop\qsdg\AnyDesk\AnyDesk\obj\Debug\AnyDesk.Main.resources
+C:\Users\schne\Desktop\qsdg\AnyDesk\AnyDesk\obj\Debug\AnyDesk.Resources.resources
+C:\Users\schne\Desktop\qsdg\AnyDesk\AnyDesk\obj\Debug\AnyDesk.vbproj.GenerateResource.cache
+C:\Users\schne\Desktop\qsdg\AnyDesk\AnyDesk\obj\Debug\AnyDesk.vbproj.CoreCompileInputs.cache
+C:\Users\schne\Desktop\qsdg\AnyDesk\AnyDesk\obj\Debug\AnyDesk.exe
+C:\Users\schne\Desktop\qsdg\AnyDesk\AnyDesk\obj\Debug\AnyDesk.xml
+C:\Users\schne\Desktop\qsdg\AnyDesk\AnyDesk\obj\Debug\AnyDesk.pdb
+C:\Users\schne\Desktop\qsdg\AnyDesk\AnyDesk\bin\Debug\AnyDesk.exe.config
+C:\Users\schne\Desktop\qsdg\AnyDesk\AnyDesk\bin\Debug\AnyDesk.exe
+C:\Users\schne\Desktop\qsdg\AnyDesk\AnyDesk\bin\Debug\AnyDesk.pdb
+C:\Users\schne\Desktop\qsdg\AnyDesk\AnyDesk\bin\Debug\AnyDesk.xml
+C:\Users\schne\Desktop\qsdg\AnyDesk\AnyDesk\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\schne\Desktop\qsdg\AnyDesk\AnyDesk\obj\Debug\AnyDesk.vbproj.CopyComplete
+C:\Users\schne\Desktop\newapolo\AnyDesk\AnyDesk\bin\Debug\AnyDesk.exe.config
+C:\Users\schne\Desktop\newapolo\AnyDesk\AnyDesk\bin\Debug\AnyDesk.exe
+C:\Users\schne\Desktop\newapolo\AnyDesk\AnyDesk\bin\Debug\AnyDesk.pdb
+C:\Users\schne\Desktop\newapolo\AnyDesk\AnyDesk\bin\Debug\AnyDesk.xml
+C:\Users\schne\Desktop\newapolo\AnyDesk\AnyDesk\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\schne\Desktop\newapolo\AnyDesk\AnyDesk\obj\Debug\AnyDesk.vbprojResolveAssemblyReference.cache
+C:\Users\schne\Desktop\newapolo\AnyDesk\AnyDesk\obj\Debug\AnyDesk.Loader.resources
+C:\Users\schne\Desktop\newapolo\AnyDesk\AnyDesk\obj\Debug\AnyDesk.Main.resources
+C:\Users\schne\Desktop\newapolo\AnyDesk\AnyDesk\obj\Debug\AnyDesk.Resources.resources
+C:\Users\schne\Desktop\newapolo\AnyDesk\AnyDesk\obj\Debug\AnyDesk.vbproj.GenerateResource.cache
+C:\Users\schne\Desktop\newapolo\AnyDesk\AnyDesk\obj\Debug\AnyDesk.vbproj.CoreCompileInputs.cache
+C:\Users\schne\Desktop\newapolo\AnyDesk\AnyDesk\obj\Debug\AnyDesk.vbproj.CopyComplete
+C:\Users\schne\Desktop\newapolo\AnyDesk\AnyDesk\obj\Debug\AnyDesk.exe
+C:\Users\schne\Desktop\newapolo\AnyDesk\AnyDesk\obj\Debug\AnyDesk.xml
+C:\Users\schne\Desktop\newapolo\AnyDesk\AnyDesk\obj\Debug\AnyDesk.pdb
+C:\Users\schne\Desktop\overlay test\AnyDesk\AnyDesk\bin\Debug\AnyDesk.exe.config
+C:\Users\schne\Desktop\overlay test\AnyDesk\AnyDesk\bin\Debug\AnyDesk.exe
+C:\Users\schne\Desktop\overlay test\AnyDesk\AnyDesk\bin\Debug\AnyDesk.pdb
+C:\Users\schne\Desktop\overlay test\AnyDesk\AnyDesk\bin\Debug\AnyDesk.xml
+C:\Users\schne\Desktop\overlay test\AnyDesk\AnyDesk\obj\Debug\AnyDesk.vbprojResolveAssemblyReference.cache
+C:\Users\schne\Desktop\overlay test\AnyDesk\AnyDesk\obj\Debug\AnyDesk.backover.resources
+C:\Users\schne\Desktop\overlay test\AnyDesk\AnyDesk\obj\Debug\AnyDesk.Loader.resources
+C:\Users\schne\Desktop\overlay test\AnyDesk\AnyDesk\obj\Debug\AnyDesk.Main.resources
+C:\Users\schne\Desktop\overlay test\AnyDesk\AnyDesk\obj\Debug\AnyDesk.Resources.resources
+C:\Users\schne\Desktop\overlay test\AnyDesk\AnyDesk\obj\Debug\AnyDesk.vbproj.GenerateResource.cache
+C:\Users\schne\Desktop\overlay test\AnyDesk\AnyDesk\obj\Debug\AnyDesk.vbproj.CoreCompileInputs.cache
+C:\Users\schne\Desktop\overlay test\AnyDesk\AnyDesk\obj\Debug\AnyDesk.vbproj.CopyComplete
+C:\Users\schne\Desktop\overlay test\AnyDesk\AnyDesk\obj\Debug\AnyDesk.exe
+C:\Users\schne\Desktop\overlay test\AnyDesk\AnyDesk\obj\Debug\AnyDesk.xml
+C:\Users\schne\Desktop\overlay test\AnyDesk\AnyDesk\obj\Debug\AnyDesk.pdb
+C:\Users\schne\Desktop\overlay test\AnyDesk\AnyDesk\obj\Debug\AnyDesk.clickguy.resources
+C:\Users\schne\Desktop\overlay test\AnyDesk\AnyDesk\bin\Debug\Newtonsoft.Json.dll
+C:\Users\schne\Desktop\overlay test\AnyDesk\AnyDesk\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Joshua\Desktop\AnyDesk\AnyDesk\bin\Debug\AnyDesk.exe.config
+C:\Users\Joshua\Desktop\AnyDesk\AnyDesk\bin\Debug\AnyDesk.exe
+C:\Users\Joshua\Desktop\AnyDesk\AnyDesk\bin\Debug\AnyDesk.pdb
+C:\Users\Joshua\Desktop\AnyDesk\AnyDesk\bin\Debug\AnyDesk.xml
+C:\Users\Joshua\Desktop\AnyDesk\AnyDesk\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Joshua\Desktop\AnyDesk\AnyDesk\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Joshua\Desktop\AnyDesk\AnyDesk\obj\Debug\AnyDesk.vbprojResolveAssemblyReference.cache
+C:\Users\Joshua\Desktop\AnyDesk\AnyDesk\obj\Debug\AnyDesk.backover.resources
+C:\Users\Joshua\Desktop\AnyDesk\AnyDesk\obj\Debug\AnyDesk.clickguy.resources
+C:\Users\Joshua\Desktop\AnyDesk\AnyDesk\obj\Debug\AnyDesk.Loader.resources
+C:\Users\Joshua\Desktop\AnyDesk\AnyDesk\obj\Debug\AnyDesk.Main.resources
+C:\Users\Joshua\Desktop\AnyDesk\AnyDesk\obj\Debug\AnyDesk.Resources.resources
+C:\Users\Joshua\Desktop\AnyDesk\AnyDesk\obj\Debug\AnyDesk.vbproj.GenerateResource.Cache
+C:\Users\Joshua\Desktop\AnyDesk\AnyDesk\obj\Debug\AnyDesk.vbproj.CoreCompileInputs.cache
+C:\Users\Joshua\Desktop\AnyDesk\AnyDesk\obj\Debug\AnyDesk.exe
+C:\Users\Joshua\Desktop\AnyDesk\AnyDesk\obj\Debug\AnyDesk.xml
+C:\Users\Joshua\Desktop\AnyDesk\AnyDesk\obj\Debug\AnyDesk.pdb
